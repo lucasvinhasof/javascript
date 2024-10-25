@@ -18,12 +18,14 @@ section {
     
 }
 
-footer {
+footer, footer a {
     color: white;
     text-align: center;
     font-style: italic;
+    text-decoration: none;
 }
 
 select {
     width: 150px;
+    padding: 5px;
 }

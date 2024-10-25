@@ -1,5 +1,5 @@
 body {
-    background: rgb(70, 142, 236);
+    background: rgb(70, 114, 236);
     font: normal 15pr arial;
 }
 
@@ -18,10 +18,11 @@ section {
     
 }
 
-footer {
+footer, footer a {
     color: white;
     text-align: center;
     font-style: italic;
+    text-decoration: none;
 }
 
 div {
